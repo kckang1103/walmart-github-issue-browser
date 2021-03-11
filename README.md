@@ -42,5 +42,4 @@ Currently only running on localhost
 
 ## Acknowledgments
 
-* It was a good experience learning more about React.js
-* Walmart for the win!!!
+* a good experience learning more about React.js
