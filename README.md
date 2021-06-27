@@ -38,8 +38,3 @@ Currently only running on localhost
 ## Author
 
 * **Kichul Kang** - [kckang1103](https://github.com/kckang1103)
-
-
-## Acknowledgments
-
-* a good experience learning more about React.js
